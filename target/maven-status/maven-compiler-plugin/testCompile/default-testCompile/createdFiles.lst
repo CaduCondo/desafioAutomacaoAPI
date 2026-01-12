@@ -1,0 +1,9 @@
+base\BaseTest.class
+users\GetUserTest.class
+contracts\UserContractTest.class
+users\UpdateUserTest.class
+ratelimit\RateLimitTest.class
+auth\LoginTest.class
+utils\TokenManager.class
+users\DeleteUserTest.class
+users\CreateUserTest.class
